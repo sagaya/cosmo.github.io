@@ -2,6 +2,7 @@
 title: Cosmo -Personal Blog
 email: cosmo-loxp@gmail.com
 description: A blog about managing social activities and with coding life and activities
+baseurl: '/cosmo'
 url: "http://blog.cosmo.com" # the base hostname & protocol for your site
 facebook_username: loxporg
 paginate: 3
